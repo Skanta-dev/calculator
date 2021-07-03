@@ -1,2 +1,2 @@
-# calculator
-My first calculator
+# Hello, my friend!
+This is my first calculator
